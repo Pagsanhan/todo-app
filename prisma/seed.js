@@ -18,6 +18,7 @@ const userData = {
       { task: "Experiment only"},
       { task: "developer a"},
       { task: "developer b"},
+      { task: "developer b remote"},
 
     ],
   },
