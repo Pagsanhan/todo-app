@@ -16,10 +16,8 @@ const userData = {
       { task: "Finish the Project" },
       { task: "but Prok belly"},
       { task: "Experiment only"},
-      { task: "developer a"},
-      { task: "developer b"},
-      { task: "developer b remote"},
-
+      { task: "Experiment only2"},
+      { task: "Experiment only3"},
     ],
   },
 };
